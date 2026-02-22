@@ -1,0 +1,24 @@
+# Tüm metin dosyalarında satır sonlarını LF olarak zorla
+* text=auto eol=lf
+
+# Binary dosyalar - dokunma
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.avif binary
+*.svg binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.otf binary
+*.pdf binary
+*.zip binary
+*.tar.gz binary
+*.mp4 binary
+*.webm binary
+*.mp3 binary
+*.ogg binary
